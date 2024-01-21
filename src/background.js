@@ -192,7 +192,6 @@ const imgurInstances = [
   "rimgo.bus-hit.me",
   "imgur.artemislena.eu",
   "rimgo.vern.cc",
-  "rim.odyssey346.dev",
   "i.habedieeh.re",
   "rimgo.hostux.net",
   "ri.zzls.xyz",
